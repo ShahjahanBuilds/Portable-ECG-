@@ -10,7 +10,7 @@ This revision successfully demonstrated the acquisition of the P-QRS-T complex w
 * **Noise Floor:** < 20uV (post-filtering).
 
 ### Assembly Evidence
-The ADS1298 (TQFP-64) was hand-soldered using hot air reflow.
+The ADS1298 (TQFP-64) was hand-soldered using hot plate.
 
 | Manual Soldering | Wiring Harness |
 | :---: | :---: |
