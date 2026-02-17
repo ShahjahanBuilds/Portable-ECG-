@@ -15,6 +15,6 @@ The enclosure is designed for injection molding with specific attention to patie
 
 | Rendered Enclosure | PCB Stackup |
 | :---: | :---: |
-| ![Enclosure](mechanical-design/Rendered_Design_Black.jpeg) | ![PCB](layout-renders/PCB_Front-Back.png) |
+| ![Enclosure](mechanical-design/Rendered_Design_White.jpeg) | ![PCB](layout-renders/PCB_Front-Back.png) |
 
 **[▶️ Click here to watch the Assembly Explosion Video](mechanical-design/Concept_Product%20_Design.mp4)**
