@@ -24,7 +24,7 @@ This project is a clinical-grade 12-lead ECG monitor. I built and verified a fun
 
 | Test Setup (HIL) | Clinical Lead Placement |
 | :---: | :---: |
-| <img src="hardware/prototype-v1/validation/Setup.jpeg" width="400"> | <img src="hardware/prototype-v1/validation/Electrodes_Placement.jpeg" width="400"> |
+| <img src="hardware/prototype-v1/validation/Setup.jpeg" width="800"> | <img src="hardware/prototype-v1/validation/Electrodes_Placement.jpeg" width="400"> |
 
 ### Phase 2: Production Concept (Design Only)
 *Advanced 4-layer PCB and mechanical enclosure designed for IEC 60601-1 compliance. Ready for fabrication.*
@@ -33,14 +33,14 @@ This project is a clinical-grade 12-lead ECG monitor. I built and verified a fun
 
 | Altium 3D Render (V2) | Bare PCB (V1 Prototype) |
 | :---: | :---: |
-| <img src="hardware/ProductConcept/layout-renders/PCB_Front-Back.png" width="400"> | <img src="hardware/prototype-v1/assembly/PCB_Manufactured.jpeg" width="400"> |
+| <img src="hardware/ProductConcept/layout-renders/PCB_Front-Back.png" width="400"> | <img src="hardware/prototype-v1/assembly/Assembly.jpeg" width="400"> |
 
 ---
 
 ## 🛠️ Tech Stack
 * **Hardware:** Altium Designer, 4-Layer Stackup, ADS1298 AFE
 * **Firmware:** C/C++, PlatformIO, ESP32 (Dual Core), SPI DMA
-* **Mechanical:** SolidWorks, 3D Printing
+* **Mechanical:** Fusion 360, 3D Printing
 
 ## 📂 Repository Navigation
 * [**`/firmware`**](./firmware) - C++ source code for ADS1298 driver and ESP32 interrupts.
