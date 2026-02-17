@@ -11,7 +11,7 @@ This revision represents the "Design for Manufacturing" (DFM) phase. It upgrades
 4.  **Bottom Layer:** Sensitive Analog Traces (Shielded by internal planes).
 
 ### Mechanical Integration
-The enclosure is designed for injection molding with specific attention to patient isolation.
+The enclosure is designed for 3D Printing with specific attention to patient isolation.
 
 | Rendered Enclosure | PCB Stackup |
 | :---: | :---: |
