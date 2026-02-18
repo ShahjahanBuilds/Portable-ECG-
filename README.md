@@ -33,11 +33,11 @@ This project is a clinical-grade 12-lead ECG monitor. I built and verified a fun
 
 | PCB Design | Exploded 3D CAD Model |
 | :---: | :---: |
-| <img src="hardware/ProductConcept/layout-renders/PCB_Front-Back.png" width="600"> | <img src="hardware/ProductConcept/mechanical-design/Rendered_Design_White.jpeg" width="600"> |
+| <img src="hardware/ProductConcept/layout-renders/PCB_Front-Back.png" width="800"> | <img src="hardware/ProductConcept/mechanical-design/Rendered_Design_White.jpeg" width="800"> |
 
 | Rendered Back | Rendered Front |
 | :---: | :---: |
-| <img src="hardware/ProductConcept/mechanical-design/Rendered_Design _Back.jpeg" width="600"> | <img src="hardware/ProductConcept/mechanical-design/Rendered_Design_Front.jpeg" width="600"> |
+| <img src="hardware/ProductConcept/mechanical-design/Rendered_Design _Back.jpeg" width="800"> | <img src="hardware/ProductConcept/mechanical-design/Rendered_Design_Front.jpeg" width="800"> |
                                                                                     
 ---
 
