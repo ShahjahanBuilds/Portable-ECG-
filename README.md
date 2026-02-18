@@ -33,7 +33,7 @@ This project is a clinical-grade 12-lead ECG monitor. I built and verified a fun
 
 | Altium 3D Render (V2) | Bare PCB (V1 Prototype) |
 | :---: | :---: |
-| <img src="hardware/ProductConcept/layout-renders/PCB_Front-Back.png" width="400"> | <img src="hardware/prototype-v1/assembly/PCB_Manufactured.jpeg" width="400"> |
+| <img src="hardware/ProductConcept/layout-renders/PCB_Front-Back.png" width="400"> | <img src="hardware/ProductConcept/mechanical-design/Rendered_Design_White.jpeg" width="400"> |
 
 ---
 
