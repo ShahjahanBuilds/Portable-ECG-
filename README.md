@@ -31,10 +31,13 @@ This project is a clinical-grade 12-lead ECG monitor. I built and verified a fun
 
 **[▶️ CLICK TO WATCH: Assembly Simulation](hardware/ProductConcept/mechanical-design/Concept_Product%20_Design.mp4)**
 
-| Test Setup (HIL) | Clinical Lead Placement |
+| PCB Design | Exploded 3D CAD Model |
 | :---: | :---: |
-| <img src="hardware/ProductConcept/layout-renders/PCB_Front-Back.png" width="400"> | <img src="hardware/ProductConcept/mechanical-design/Rendered_Design_White.jpeg" width="400"> |
-| <img src="hardware/ProductConcept/mechanical-design/Rendered_Design _Back.jpeg" width="400"> | <img src="hardware/ProductConcept/mechanical-design/Rendered_Design_Front.jpeg" width="400"> |
+| <img src="hardware/ProductConcept/layout-renders/PCB_Front-Back.png" width="600"> | <img src="hardware/ProductConcept/mechanical-design/Rendered_Design_White.jpeg" width="600"> |
+
+| Rendered Back | Rendered Front |
+| :---: | :---: |
+| <img src="hardware/ProductConcept/mechanical-design/Rendered_Design _Back.jpeg" width="600"> | <img src="hardware/ProductConcept/mechanical-design/Rendered_Design_Front.jpeg" width="600"> |
                                                                                     
 ---
 
